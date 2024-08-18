@@ -15,3 +15,4 @@ This project was completed during the first semester of my final year (December 
 - Exploring Neural Networks with Natural Language Processing (NLP) for more advanced sentiment analysis.
 - Evaluating the models on external datasets to test generalizability.
 
+link for the kaggle notebook [PySpark-project](https://www.kaggle.com/code/mamado161/pyspark-project)
